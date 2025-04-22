@@ -34,4 +34,5 @@ An additional file RF.out.txt will contain the updated register data.
 
 2. CS19B071 - Sanchit Gupta (0xSanchit)
 
-3. CS19B065 - parth Ajmera
+3. CS19B065 - Parth Ajmera (AjmeraParth132)
+   
